@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>QuanLyKaraoke</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="GUI\FormBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyDuAn", "QuanLyDuAn\QuanLyDuAn.csproj", "{9FBEACD8-9EED-55F7-B817-9B23944B9716}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyGarage", "QuanLyGarage\QuanLyGarage.csproj", "{09D6A1A7-E0DE-5193-8720-8B657A479EF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyKaraoke", "QuanLyKaraoke\QuanLyKaraoke.csproj", "{9B8408C5-2F4E-56AC-A99F-D460C071FA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBEACD8-9EED-55F7-B817-9B23944B9716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBEACD8-9EED-55F7-B817-9B23944B9716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBEACD8-9EED-55F7-B817-9B23944B9716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBEACD8-9EED-55F7-B817-9B23944B9716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D6A1A7-E0DE-5193-8720-8B657A479EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D6A1A7-E0DE-5193-8720-8B657A479EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D6A1A7-E0DE-5193-8720-8B657A479EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D6A1A7-E0DE-5193-8720-8B657A479EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8408C5-2F4E-56AC-A99F-D460C071FA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8408C5-2F4E-56AC-A99F-D460C071FA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8408C5-2F4E-56AC-A99F-D460C071FA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8408C5-2F4E-56AC-A99F-D460C071FA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
